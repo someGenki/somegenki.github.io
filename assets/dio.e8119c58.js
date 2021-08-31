@@ -1,1 +1,1 @@
-var a="/assets/dio.76d97a9d.jpg";export{a as _};
+var a="/vite/assets/dio.76d97a9d.jpg";export{a as _};
