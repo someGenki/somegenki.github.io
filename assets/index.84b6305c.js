@@ -1,0 +1,1 @@
+import{g as e,o as s,s as t,k as a,w as r}from"./vendor.5b34386d.js";const o={},n={style:{padding:"30px"}};o.render=function(o,d){const l=e("router-view"),u=e("el-alert");return s(),t("div",n,[a(u,{closable:!1,title:"menu 1-2",type:"success"},{default:r((()=>[a(l)])),_:1})])};export{o as default};
