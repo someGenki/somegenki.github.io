@@ -1,1 +1,0 @@
-import{o as s,j as e,S as n,k as o}from"./vendor.98f7b7d7.js";const t={name:"TestPermission",setup(){console.log("test")}},l=o("div",null,"尚未实现相应演示",-1),r=o("p",null,"TODO",-1);t.render=function(o,t,a,u,d,i){return s(),e(n,null,[l,r],64)};export{t as default};
